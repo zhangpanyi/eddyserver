@@ -8,7 +8,7 @@
 
 ## 使用
 ```
-git clone https://github.com/zhangpanyi/eddyserver
+git clone https://github.com/samrtbot/eddyserver
 git submodule update --init --recursive
 mkdir build && cd build
 cmake ..
